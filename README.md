@@ -26,4 +26,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![𝚆𝚊𝚝𝚊𝚜𝚑𝚒's github stats](https://github-readme-stats.vercel.app/api?username=decent-linuxxx&show_icons=true&theme=dracula)
+![𝚆𝚊𝚝𝚊𝚜𝚑𝚒's github stats](https://github-readme-stats.vercel.app/api?username=watashi-yo&show_icons=true&theme=dracula)
