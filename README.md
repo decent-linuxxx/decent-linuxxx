@@ -1,4 +1,4 @@
-# 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝚍𝚎𝚌𝚎𝚗𝚝
+# 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝚆𝚊𝚝𝚊𝚜𝚑𝚒
 
 :computer: 𝑀𝒾𝒹𝒹𝓁𝑒 𝐵𝒶𝒸𝓀-𝐸𝓃𝒹 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇, 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝒷𝒶𝓈𝑒𝒹 𝒾𝓃 𝐿𝓋𝒾𝓋, 𝒰𝓀𝓇𝒶𝒾𝓃𝑒
 
@@ -26,4 +26,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![decent-linuxxx's github stats](https://github-readme-stats.vercel.app/api?username=decent-linuxxx&show_icons=true&theme=dracula)
+![𝚆𝚊𝚝𝚊𝚜𝚑𝚒's github stats](https://github-readme-stats.vercel.app/api?username=decent-linuxxx&show_icons=true&theme=dracula)
