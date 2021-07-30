@@ -19,6 +19,7 @@
 2. I wanna to create a developers hub on my [website](https://eligor.codes), if you want
    to join, please, DM me
 
+
 ~ $ finger watashi
 Login: watashi                          Name: Watashi Toe
 Directory: /home/watashi                Shell: /usr/bin/zsh
