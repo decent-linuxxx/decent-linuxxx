@@ -3,10 +3,10 @@
      /\__\         /\  \         /\__\     /\__\     /\  \    
     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
    /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \
  /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
  \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  /
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
@@ -14,17 +14,18 @@
 <strong>Welcome to my GitHub profile.</strong>
 
 ~ $ cat note.txt
-1. I use my own Raspberry Pi[Ubuntu Server] to host most of my projects now. (well actually <em>all</em>
-   except for GitHub specific projects)
+1. I use my own DigitalOcean VPS server to host specific projects and all the websites.
+2. I wanna to create a developers hub on my [website](https://eligor.codes), if you want
+   to join, please, dm me
 
 ~ $ finger watashi
 Login: watashi                          Name: Watashi Toe
 Directory: /home/watashi                Shell: /usr/bin/zsh
 
 Project:
-  - Empty for now (Yesss.. i'm lazy asf, sorry 🙁)
-  
+  - [Eligor.Codes](https://eligor.codes)
+  - WebSocket private server (Not available for now) 😥
+
 Plan:
   learning... \o/
 </pre>
-
