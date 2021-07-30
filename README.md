@@ -25,7 +25,7 @@ Login: watashi                          Name: Watashi Toe
 Directory: /home/watashi                Shell: /usr/bin/zsh
 
 Project:
-  - [Eligor.Codes](https://eligor.codes)
+  - Eligor.Codes hub
   - WebSocket private server (Not available for now) 😥
 
 Plan:
