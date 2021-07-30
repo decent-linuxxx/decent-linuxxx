@@ -16,7 +16,7 @@
 ~ $ cat note.txt
 1. I use my own DigitalOcean VPS server to host specific projects and all the websites.
 
-2. I wanna to create a developers hub on my [website](https://eligor.codes), if you want
+2. I wanna to create a developers hub on my website (https://eligor.codes), if you want
    to join, please, DM me
 
 
